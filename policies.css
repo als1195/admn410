@@ -1,0 +1,46 @@
+
+
+	h2{
+	text-align: center;
+	margin: 0; 
+	color: black;
+	font-family: "American Typewriter", serif;
+	font-weight: normal;
+	font-size: 35px;
+	}
+	
+	h4{
+		text-align: center;
+		font-family: "American Typewriter", serif;
+		font-weight: normal;
+		font-size: 25px;
+		color: black;
+	}
+	
+	h5{
+		text-align: left;
+		
+	}
+	
+	ul{
+	font-family: "Lucida Console", "Courier New", Monospace;
+	font-size: 20px;
+	outline-style: dashed;
+	text-align: center;
+	}
+	
+	div{
+	text-align: center;
+	}
+	
+	body{
+	
+	background-color: #FFFACD;
+	}
+	
+	.center {
+  		display: block;
+  		margin-left: auto;
+  		margin-right: auto;
+  		width: 400px;
+		}

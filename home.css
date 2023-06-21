@@ -1,0 +1,59 @@
+
+	
+	
+	h1{
+	font-size: 50px;
+	text-align: center;
+	font-family: "American Typewriter", serif;
+	font-weight: normal;
+	}
+	
+	h2{
+		font-size: 25px;
+		text-align: center;
+		font-family: "Lucid Handwriting", cursive;
+	}
+	
+	
+	body{
+	background-color: #FFE4E1;
+	}
+	
+	
+	nav{
+	display: block;
+	}
+	
+	ul {
+		list-style-type: none;
+ 		margin: 0;
+	  	padding: 0;
+	  	overflow: hidden;
+	  	border-radius: 20px
+		}
+		
+	li {
+  		float: left;
+		}
+
+	li a {
+  		display: block;
+  		text-align: center;
+  		padding: 8px;
+  		background-color: #00BFFF;
+  	
+	}
+	
+	.column {
+  		float: left;
+  		width: 32.5%;
+  		padding: 5px;
+		}
+		
+	dl{
+	text-align: left;
+	font-size: 15px;
+	font-family: Arial, Helvetica, sans-serif;
+	font-family: "American Typewriter", serif;
+	font-weight: normal;
+	}
